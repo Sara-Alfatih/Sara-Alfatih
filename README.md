@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sara Alfatih</h1>
-<h3 align="center">A passionate senior flutter developer from Sudan</h3>
+<h3 align="center">A passionate flutter developer from Sudan</h3>
 
 - 🔭 I’m currently working on [Rhodaa for renting cars](https://rhodaa.com/)
 
-- 🌱 I’m currently learning **firebase, state management**
+- 🌱 I’m currently learning **firebase, state management, flutter, dart**
 
 - 💬 Ask me about **flutter,dart,visual studio code**
 
